@@ -14,4 +14,3 @@
    - npm install
    - REACT_APP_API_URL=http://localhost:5000/api npm start
 
-Seed credentials: admin@example.com / password, manager@example.com / password, dev@example.com / password
